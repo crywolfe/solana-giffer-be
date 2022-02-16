@@ -1,11 +1,11 @@
-[programs.localnet]
-mygifportal = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+[programs.devnet]
+mygifportal = "3ZuToPmn6gi7LsjFr5up7H7AtXdmTygYHXdLCELr7GoS"
 
 [registry]
 url = "https://anchor.projectserum.com"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "/Users/gerrywolfe/.config/solana/id.json"
 
 [scripts]
