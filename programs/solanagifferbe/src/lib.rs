@@ -3,7 +3,7 @@ use anchor_lang::prelude::*;
 declare_id!("3ZuToPmn6gi7LsjFr5up7H7AtXdmTygYHXdLCELr7GoS");
 
 #[program]
-pub mod mygifportal {
+pub mod solanagifferbe {
     use super::*;
     pub fn start_stuff_off(ctx: Context<StartStuffOff>) -> ProgramResult {
         

@@ -8,7 +8,7 @@ const main = async() => {
   const provider = anchor.Provider.env();
   anchor.setProvider(provider);
 
-  const program = anchor.workspace.Mygifportal;
+  const program = anchor.workspace.solanagifferbe;
 
   const baseAccount = anchor.web3.Keypair.generate();
 
